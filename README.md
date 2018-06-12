@@ -53,7 +53,7 @@ To build and push the code, run:
 
 `make build push`
 
-This will create the Docker contaienr and push it up to your Google Container Registry. 
+This will create the Docker container and push it up to your Google Container Registry. 
 
 Again, you can pass in a custom project ID, but make sure it is the same as before:
 
